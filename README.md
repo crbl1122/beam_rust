@@ -1,1 +1,1 @@
-# Apache Beam and Rust: Meant to be together
+# Apache Beam and Rust: Made for each other
